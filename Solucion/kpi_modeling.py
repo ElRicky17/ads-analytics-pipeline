@@ -84,5 +84,5 @@ results = {
 
 df_result = pd.DataFrame([results])
 pd.set_option('display.float_format', '{:.2f}'.format)
-print("\n👉 Resultado final:")
+print("\n Resultado final:")
 print(df_result)
